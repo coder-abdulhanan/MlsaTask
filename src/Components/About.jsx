@@ -24,7 +24,7 @@ const imageAltText = "Simple and decent white background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am computer science student at COMSATS University, I am passionate about new technologies.";
+  "I am computer science student at COMSATS University, I am passionate about future technologies.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
