@@ -20,8 +20,8 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/socials/sunset.jpg";
-const imageAltText = "Beatiful sea view with a boy and peaceful sky color";
+import image from "../images/socials/nature.jpg";
+const imageAltText = "Beautiful sea view with satisfying sky colors and clouds";
 
 const Home = ({ name, title }) => {
   return (
