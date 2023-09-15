@@ -29,7 +29,7 @@ const siteProps = {
   email: "abdul.hanan@studentambassadors.com",
   gitHub: "coder-abdulhanan",
   instagram: "honey_007.official",
-  linkedIn: "https://www.linkedin.com/in/abdul-hanan-81ba64237",
+  linkedIn: "",
   medium: "",
   twitter: "",
   youTube: "",
