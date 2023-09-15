@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/socials/whitebackground.jpg";
+import image from "../images/socials/Greytexture.jpg";
 
-const imageAltText = "Simple and decent white background";
+const imageAltText = "Simple and decent grey texture background";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -36,6 +36,7 @@ const skillsList = [
   "Focus on testing",
   "Graphical user interfaces",
   "Editing",
+  "Creativity",
 ];
 
 /**
