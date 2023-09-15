@@ -46,7 +46,7 @@ const projectList = [
     title: "My linkedIn profile",
     description:
       "Linked in much important as it is your updated resume which show your abilities.",
-    url: "https://www.linkedin.com/in/abdul-hanan-81ba64237/",
+    url: "https://www.linkedin.com/in/abdul-hanan-81ba64237",
   },
   {
     title: "How to use Github",
