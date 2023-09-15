@@ -31,7 +31,7 @@ const imageAltText = "Desktop with accessories and laptop";
  */
 const projectList = [
   {
-    title: "My blog website",
+    title: "Blog website",
     description:
       "This is my blog website where I breifly explained my expertise and growth toward technology.",
     url: "https://coder-abdulhanan.github.io/MlsaTask/",
